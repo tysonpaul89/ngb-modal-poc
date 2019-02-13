@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { MessageComponent } from 'src/app/message/message/message.component';
+import { MessageComponent } from '../../message/message/message.component';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
